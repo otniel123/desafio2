@@ -1,0 +1,77 @@
+body,html{
+    height: 100%;
+}
+body{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: hsl(233, 47%, 7%);
+}
+.container p {
+    width: 400px;
+    margin-left: 53px;
+    font-size: 36px;
+    color: white;
+   
+    
+    
+    
+}
+.container .secondpart img {
+    width: 543px;
+    height: 430px;
+    border-radius: 0px 10px 10px 0px;;
+    
+}
+
+.container {
+    display: flex;
+    margin-bottom: 0px;
+    margin-top: 250px;
+    border: hsl(244, 38%, 16%) 8px;
+    width: 546px;
+    height: 429px;
+    align-items: center;
+    background-color: hsl(244, 38%, 16%);
+    margin-left: 360px;
+    margin-right: auto;
+}
+h4{
+    padding-left: 35px;
+}
+
+.container .firstpart{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 70px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px 0px 10px 0px;
+ 
+}
+
+.container .firstpart em{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container .firstpart .firstpart2{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-left: 23px;
+}
+.container .firstpart .macbook, .macbook2, .macbook3{
+    display: inline-block;
+    color: white;
+
+}
+.container .firstpart .macbook{
+    margin-left: 55px;
+}
+.container .firstpart .macbook2{
+    margin-left: 55px;
+}
+.container .firstpart .macbook3{
+    margin-left: 55px;
+}
+
+
+    
